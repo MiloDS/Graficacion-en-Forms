@@ -1,0 +1,10 @@
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\bin\Debug\GRAVEDAD!.exe.config
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\bin\Debug\GRAVEDAD!.exe
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\bin\Debug\GRAVEDAD!.pdb
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\obj\Debug\Graficacion en forms (Add fisicas).csproj.AssemblyReference.cache
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\obj\Debug\GRAVEDAD_.frmPrincipal.resources
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\obj\Debug\GRAVEDAD_.Properties.Resources.resources
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\obj\Debug\Graficacion en forms (Add fisicas).csproj.GenerateResource.cache
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\obj\Debug\Graficacion en forms (Add fisicas).csproj.CoreCompileInputs.cache
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\obj\Debug\GRAVEDAD!.exe
+C:\Users\Mukkano\source\repos\GRAVEDAD!\GRAVEDAD!\obj\Debug\GRAVEDAD!.pdb

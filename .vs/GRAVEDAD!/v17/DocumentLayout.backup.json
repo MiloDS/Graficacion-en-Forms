@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8D3BD0-E383-41E2-BD60-933EE7CE76A7}|GRAVEDAD!\\Graficacion en forms (Add fisicas).csproj|c:\\users\\mukkano\\source\\repos\\gravedad!\\gravedad!\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8D3BD0-E383-41E2-BD60-933EE7CE76A7}|GRAVEDAD!\\Graficacion en forms (Add fisicas).csproj|solutionrelative:gravedad!\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8D3BD0-E383-41E2-BD60-933EE7CE76A7}|GRAVEDAD!\\GRAVEDAD!.csproj|C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\gravedad!\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8D3BD0-E383-41E2-BD60-933EE7CE76A7}|GRAVEDAD!\\GRAVEDAD!.csproj|solutionrelative:gravedad!\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8D3BD0-E383-41E2-BD60-933EE7CE76A7}|GRAVEDAD!\\GRAVEDAD!.csproj|C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\gravedad!\\clscirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8D3BD0-E383-41E2-BD60-933EE7CE76A7}|GRAVEDAD!\\GRAVEDAD!.csproj|solutionrelative:gravedad!\\clscirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\GRAVEDAD!\\clsCirculo.cs",
+              "RelativeDocumentMoniker": "GRAVEDAD!\\clsCirculo.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\GRAVEDAD!\\clsCirculo.cs",
+              "RelativeToolTip": "GRAVEDAD!\\clsCirculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:23:18.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\GRAVEDAD!\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "GRAVEDAD!\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\GRAVEDAD!\\frmPrincipal.cs",
+              "RelativeToolTip": "GRAVEDAD!\\frmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:56:15.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\GRAVEDAD!\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "GRAVEDAD!\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\source\\repos\\GRAVEDAD!\\GRAVEDAD!\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "GRAVEDAD!\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:01:16.367Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
